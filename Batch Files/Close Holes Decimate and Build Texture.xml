@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<batchjobs version="1.7.4" save_project="true">
+  <job name="CloseHoles" target="all">
+    <level>20</level>
+  </job>
+  <job name="DecimateModel" target="all">
+    <face_count>3000000</face_count>
+  </job>
+  <job name="BuildTexture" target="all">
+    <page_count>30</page_count>
+  </job>
+</batchjobs>

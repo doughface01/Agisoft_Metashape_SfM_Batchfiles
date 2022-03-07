@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<batchjobs version="1.7.4" save_project="true">
+  <job name="BuildModel" target="all">
+    <downscale>2</downscale>
+    <face_count>2</face_count>
+    <reuse_depth>true</reuse_depth>
+  </job>
+</batchjobs>
