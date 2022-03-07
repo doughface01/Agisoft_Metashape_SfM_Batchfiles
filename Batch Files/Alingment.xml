@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<batchjobs version="1.7.4" save_project="true">
-  <job name="AlignChunks" target="all">
-    <downscale>0</downscale>
-    <keypoint_limit>2000</keypoint_limit>
-  </job>
-</batchjobs>
